@@ -4,9 +4,9 @@ layout: page
 ---
 
 
-<h2 align="center">Data Science for Studying Language and the Mind2</h2>
-<h3 align="center">Fall 2021 Syllabus2</h3>
-<h3 align="center">Mon & Wed 10:15-11:15am MOOR 216</h3>
+<h2 align="center">Moj novi predmet la-la-la</h2>
+<h3 align="center">Zimski semester 2021</h3>
+<h3 align="center">Torek, 10:15-11:15, pred. 412</h3>
 
 <hr>
 
