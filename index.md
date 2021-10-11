@@ -69,10 +69,10 @@ Section | Time | Location | LA
 - Note that **lab problem sets are ungraded**. They are designed to help you practice your new skills in a low-pressure environment and to help you prepare for the exams!
 
 
-## Schedule
+## Razporeditev tem
 Schedule is subject to change. All lectures will be recorded and [posted here](https://canvas.upenn.edu/courses/1613834/external_tools/90311) a few minutes after each class.
 
-Wk  | Lecture | Readings | Resources
+Ted  | Tema | Branje | Viri
 1 | [Sep 01: Welcome](https://docs.google.com/presentation/d/1bQFe9MpHLd6Vg_59WlABhu7RvGURGpIeqhMc1ePJ1dw/edit?usp=sharing) | [Ch 1](https://app.perusall.com/courses/ling172-psyc215/1-introduction-or-r-for-data-science-865413295?assignmentId=fowzE5QhWyf99jPrs&part=1) | *first day of Penn classes (31)* <br> [Problem Set 1](https://colab.research.google.com/drive/1paOSBijSnpzZAim8uMWtFtVhilKHWksZ)
 2 | Sep 06: Labor Day, no class! <br> [Sep 08: Data visualization](https://docs.google.com/presentation/d/1A2j3Tk2B8GHU2vR_2yypaf2WDwf5hd0eNHTd_ee8nos/edit?usp=sharing) | [Ch 2-3](https://app.perusall.com/courses/ling172-psyc215/2-introduction-or-r-for-data-science-116556996?assignmentId=2k3FuDKSCWRriWcuy&part=1) | [Problem Set 2](https://colab.research.google.com/drive/1S8Ht0VAGgBKq1wajd2jep2Bnlw9ZXiWr?usp=sharing) 
 3 | [Sep 13: R basics](https://docs.google.com/presentation/d/1x9mGwJyJ2vVghtghk8yOubYWcXgZXXPFyItIWvIcs1g/edit?usp=sharing) <br> [Sep 15: Data transformation](https://colab.research.google.com/drive/1BmYDapxRqsO1_1T2BF16AgecOoQeuGF2?usp=sharing)  | [Ch 4-5](https://app.perusall.com/courses/ling172-psyc215/4-workflow-basics-or-r-for-data-science-398275411?assignmentId=E6nPiWM9FNQtXJ4Sf&part=1) | *course selection period ends (14)* <br> [Problem Set 3](https://colab.research.google.com/drive/1tAXm0xvcpDcbhxO8DHW7R1MjMml4YII5?usp=sharing)
@@ -114,7 +114,7 @@ Wk  | Lecture | Readings | Resources
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 - **Support**: Asking for help is a sign of strength! We hope you'll reach out to us if you need help. We also want you to be aware of Penn's [Academic](https://www.college.upenn.edu/index.php/support) & [Wellness Resources](https://www.wellnessatpenn.com/)
 
-## Grading scale
+## Ocenjevalna lestvica
 The table below shows the minimum score before rounding for letter grades. Grading in this course is not on a curve: there is room for everyone to do well!
 
 A+ 97 | A 93% | A- 90% | B+ 87% | B 84% | B- 80%
