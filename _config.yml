@@ -1,0 +1,38 @@
+title: "LING 172 / PSYC 215"
+author: "Kathryn Schuler"
+description: "Course website for data science for studying language and the mind at UPenn"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: false          # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md"}
+  - {url: "#getting-help", title: Help}
+  - {url: "#schedule", title: Schedule}
+  - {url: "#policies", title: Policies}
+  - {url: "#faqs", title: FAQs }
+  - {url: "/datasets", title: Datasets}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+#   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+#   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+#   - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+remote_theme: niklasbuschmann/contrast@v2.11
+
+plugins:
+  - jekyll-remote-theme
